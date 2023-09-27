@@ -1,6 +1,8 @@
 # Simple-Calculator
 
  perform basic mathematical calculations
+ 
+![Screenshot (174)](https://github.com/ritik1103/Simple-Calculator/assets/95840534/e3c66418-8cc3-4b57-80f1-139b6f1252fa)
 
 ## Description
 
