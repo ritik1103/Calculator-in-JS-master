@@ -1,0 +1,81 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+body{
+	background-image: url(background.png);
+	background-size: cover;
+    height: 100vh;
+    background-position: center;
+    
+}
+.head{
+    width: 300px;
+    text-align: center;
+    font: bold normal 18px Arial;
+    margin: 0px auto;
+}
+.container{
+    height: 406px;
+    width: 350px;
+    margin: 40px auto;
+    background-color: #000000;
+    border: 3px inset #625f5f;
+    border-radius: 17px;
+    padding: 40px 30px;
+}
+.screen{
+    height: 50px;
+    width: 300px;
+    margin: 10px;
+    padding: 16px 10px;
+    border: 1px solid #ffffff;
+    border-radius: 11px;
+    background-color: rgb(164, 238, 255);
+}
+#numdisplay{    
+	height: 42px;
+    text-align: right;
+    font: normal normal 43px Arial;
+}
+#numdisplay span{
+	opacity: 0.5;
+}
+.keypad {
+    width: 290px;
+    height: 206px;
+    border: 1px dotted #00f2ff;
+    border-radius: 14px;
+    margin: 14px;
+    padding: 12px;
+}
+input{ 
+	height: 47px;
+    width: 65px;
+    margin: 2px;
+    padding: 4px;
+    border-radius: 10px;
+	font: bold normal 30px Verdana;
+}
+input:hover{
+	background-color: rgb(207, 0, 0);
+}
+
+.specialbuttons{
+    height: 50px;
+    width: 300px;
+    margin: 0px auto;
+}
+.specialbuttons input{
+    width: 143px;
+    font-size: 20px;
+}
+
+
+footer{
+    height: 40px;
+    text-align: center;
+    font: bold normal 30px Verdana;
+    background-color: rgba(241, 237, 18, 0.712);
+    color: rgb(0, 0, 0);
+}
